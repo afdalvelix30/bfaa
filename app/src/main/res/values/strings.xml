@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHubAPP</string>
+    <string name="title">Pengguna GitHub</string>
+    <string name="search">Cari</string>
+    <string name="detail_user">Detail Pengguna</string>
+    <string name="data">Data Belum Ditemukan</string>
+    <string name="tab1">Pengikut</string>
+    <string name="tab2">Mengikuti</string>
+    <string name="tab3">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="repos">Repository</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="load">Memuat...</string>
+    <string name="about">Tentang</string>
+</resources>

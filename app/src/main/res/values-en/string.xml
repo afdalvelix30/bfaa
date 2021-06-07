@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHubAPP</string>
+    <string name="title">GitHub User</string>
+    <string name="search">Search</string>
+    <string name="data">Data Not Available</string>
+    <string name="detail_user">Detail User</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="tab3">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repos">Repository</string>
+    <string name="change_language">Change Lenguage</string>
+    <string name="load">Loading...</string>
+    <string name="about">About</string>
+</resources>
